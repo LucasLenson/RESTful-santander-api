@@ -1,6 +1,6 @@
 ## Santander BootCamp 2024
 
-Java RESTful api criada para o gerenciamento de usuários (Santander Back-End BootCamp).
+Java RESTful api criada para o gerenciamento de usuários e publicada na nuvem (Railway).
 
 ## Principais Tecnologias
  - **Java 17**: Versão LTS mais recente do Java
